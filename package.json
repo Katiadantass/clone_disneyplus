@@ -1,0 +1,27 @@
+{
+  "name": "clone_disneyplus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "watch": "gulp watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katiadantass/clone_disneyplus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Katiadantass/clone_disneyplus/issues"
+  },
+  "homepage": "https://github.com/Katiadantass/clone_disneyplus#readme",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^5.0.1",
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.89.2"
+  }
+}
