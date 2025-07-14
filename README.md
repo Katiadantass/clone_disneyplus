@@ -1,7 +1,5 @@
 # 🏰 Clone Disney+
 
-🔗 [Acesse aqui o projeto publicado na Vercel](https://clone-disneyplus-sigma-seven.vercel.app/)
-
 ## 📎 Sumário
 
 • [📌 Resumo do Projeto](#-resumo-do-projeto)  
