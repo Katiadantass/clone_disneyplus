@@ -58,4 +58,4 @@ O objetivo principal foi praticar conceitos de **responsividade**, **componentiz
 
 ## 🙋 Autora
 
-Desenvolvido com 💙 por **[@Katiadantass](https://github.com/Katiadantass)**
+**[@Katiadantass](https://github.com/Katiadantass)**
